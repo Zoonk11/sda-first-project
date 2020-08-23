@@ -5,7 +5,7 @@ public class Hero {
     private String name = "Goliath";
     private char sex = 'M';
     private int health = 100;
-    private int strength = 10;
+    private int strength = 11;
     public Hero(){
 //        System.out.println("przed " + heroesCount++);
 //        heroesCount++;
